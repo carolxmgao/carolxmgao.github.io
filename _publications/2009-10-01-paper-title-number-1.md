@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "An interpretable AI model for recurrence prediction after surgery in gastrointestinal stromal tumour: an observational cohort study"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+# permalink: /publication/2023-09-08-paper-gist
+excerpt: 
+date: 2023-09-08
+venue: 'Lancet eClinicalScience'
+paperurl: 'Bertsimas D, Margonis GA, Sujichantararat S, et al. Using Artificial Intelligence to Find the Optimal Margin Width in Hepatectomy for Colorectal Cancer Liver Metastases. <i>JAMA Surg.</i> 2022;157(8):e221819. doi:10.1001/jamasurg.2022.1819'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
