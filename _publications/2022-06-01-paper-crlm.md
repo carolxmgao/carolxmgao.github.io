@@ -5,6 +5,6 @@ collection: publications
 excerpt: 
 date: 2022-06-01
 venue: 'JAMA Surgery'
-paperurl: 'https://jamanetwork.com/journals/jamasurgery/fullarticle/2792801?guestAccessKey=b3a98124-87d2-4b37-9bb0-546abb57976b&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=3m'
-citation: 'Bertsimas D, Margonis GA, Sujichantararat S, et al. Using Artificial Intelligence to Find the Optimal Margin Width in Hepatectomy for Colorectal Cancer Liver Metastases. <i>JAMA Surg.</i> 2022;157(8):e221819. doi:10.1001/jamasurg.2022.1819'
+link: 'https://jamanetwork.com/journals/jamasurgery/fullarticle/2792801?guestAccessKey=b3a98124-87d2-4b37-9bb0-546abb57976b&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=3m'
+authors: 'Dimitris Bertsimas, Georgios Antonios Margonis, Suleeporn Sujichantararat, Thomas Boerner, Yu Ma, Jane Wang, Carsten Kamphues, Kazunari Sasaki, Seehanah Tang, Johan Gagniere, Aurelien Dupré, Inger Marie Løes, Doris Wagner, Georgios Stasinos, Andrea Macher-Beer, Richard Burkhart, Daisuke Morioka, Katsunori Imai, Victoria Ardiles, Juan Manuel O’Connor, Timothy M. Pawlik, George Poultsides, Hendrik Seeliger, Katharina Beyer, Klaus Kaczirek, Peter Kornprat, Federico N. Aucejo, Eduardo de Santibañes, Hideo Baba, Itaru Endo, Per Eystein Lønning, Martin E. Kreis, Matthew J. Weiss, Christopher L. Wolfgang, MD,  Michael D’Angelica'
 ---

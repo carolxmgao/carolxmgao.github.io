@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/seehanah-tang"
+  linkedin         : "seehanah-tang"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -176,11 +176,11 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
-    permalink: /:collection/:path/
+    output: false
+    permalink:
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: 
   portfolio:
     output: true
     permalink: /:collection/:path/
