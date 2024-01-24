@@ -1,7 +1,7 @@
 ---
 title: "Using Artificial Intelligence to Find the Optimal Margin Width in Hepatectomy for Colorectal Cancer Liver Metastases"
 collection: publications
-# permalink: /publication/2022-06-01-paper-crlm
+permalink: /publication/2022-06-01-paper-crlm
 excerpt: 
 date: 2022-06-01
 venue: 'JAMA Surgery'
