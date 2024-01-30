@@ -1,8 +1,16 @@
 ---
+# title: "Brown University Building Recognition System"
+# collection: projects
+# type: "Project"
+# permalink: /projects/brown-building-recommender
+
 title: "Brown University Building Recognition System"
-collection: projects
-type: "Project"
-permalink: /projects/2012-03-01-talk-1
+collection: talks
+type: "Talk"
+permalink: /projects/brown-building-recommender
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, California"
 ---
 
 * Curated a comprehensive dataset by compiling records from Brown University and Rhode Island historical societies
