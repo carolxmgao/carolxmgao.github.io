@@ -2,7 +2,7 @@
 title: "Brown University Building Recognition System"
 collection: projects
 type: "Project"
-permalink: /projects/brown-building-recommender
+permalink: /projects/brown-building-recognition
 
 # title: "Brown University Building Recognition System"
 # collection: talks

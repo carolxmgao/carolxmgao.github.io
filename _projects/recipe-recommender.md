@@ -2,7 +2,7 @@
 title: "Rad Recipe Recommender"
 collection: projects
 type: "Project"
-permalink: /projects/2012-03-01-talk-1
+permalink: /projects/recipe-recommender
 
 # title: "Rad Recipe Recommender"
 # collection: talks
