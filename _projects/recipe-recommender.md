@@ -1,16 +1,16 @@
 ---
-# title: "Rad Recipe Recommender"
-# collection: projects
-# type: "Project"
-# permalink: /projects/2012-03-01-talk-1
-
 title: "Rad Recipe Recommender"
-collection: talks
-type: "Talk"
-permalink: /projects/brown-building-recommender
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+collection: projects
+type: "Project"
+permalink: /projects/2012-03-01-talk-1
+
+# title: "Rad Recipe Recommender"
+# collection: talks
+# type: "Talk"
+# permalink: /projects/brown-building-recommender
+# venue: "UC San Francisco, Department of Testing"
+# date: 2012-03-01
+# location: "San Francisco, California"
 ---
 
 Rad Recipe Recommender is a social web app that allows users to create a personal recipe lists and view those of their friends! It also recommends you recipes based on both your and your friends' preferences.
