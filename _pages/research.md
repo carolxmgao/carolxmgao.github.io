@@ -7,7 +7,7 @@ author_profile: true
 
 Publications 
 ------
-- Intentions are Good; Instrumental Variables are Better \\
+- [Intentions are Good; Instrumental Variables are Better]() \\
     Joshua Angrist, **Carol Gao**, Peter Hull, Robert W. Yeh. \\
     *NEJM Evidence*, Forthcoming. 
 
