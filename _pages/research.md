@@ -12,7 +12,7 @@ Publications
     *Review of Economic Design*, 2024. 
 
 - Intentions are Good; Instrumental Variables are Better \\
-    Joshua Angrist, Carol Gao, Peter Hull, Robert W. Yeh.
+    Joshua Angrist, Carol Gao, Peter Hull, Robert W. Yeh. \\
     *NEJM Evidence*, Forthcoming. 
 
 Working Papers 
