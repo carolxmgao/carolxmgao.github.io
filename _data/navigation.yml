@@ -4,8 +4,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -17,7 +17,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/CV_Tang_Seehanah.pdf
+    url: /files/CV_Carol_Gao.pdf
     
   # - title: "Guide"
   #   url: /markdown/
