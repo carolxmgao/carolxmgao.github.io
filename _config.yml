@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seehanah Tang"
+title                    : "Carol Gao"
 title_separator          : "-"
-name                     : &name "Seehanah Tang"
+name                     : &name "Carol Gao"
 description              : &description "personal description"
-url                      : https://seehanah-tang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://carolxmgao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "seehanah-tang/seehanah-tang.github.io"
+repository               : "carolxmgao/carolxmgao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seehanah Tang"
-  avatar           : "profile.png"
-  bio              : "Sc.B. Candidate in Applied Mathematics-Computer Science, Brown University"
-  location         : "Providence, Rhode Island"
+  name             : "Carol Gao"
+  avatar           : "profile.jpg"
+  bio              : ""
+  location         : ""
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4h9m-DsAAAAJ&hl=en"
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "seehanah-tang"
+  github           : "carolxmgao"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "seehanah-tang"
+  linkedin         : #"seehanah-tang"
   orcid            : 
   pinterest        :
   soundcloud       :
