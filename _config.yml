@@ -184,9 +184,6 @@ collections:
   research:
     output: true
     permalink: 
-  publications:
-    output: true
-    permalink: 
   portfolio:
     output: true
     permalink: /:collection/:path/
