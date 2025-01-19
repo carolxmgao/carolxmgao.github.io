@@ -21,5 +21,5 @@ Working Papers
     Joshua Angrist, Bruno Ferman, **Carol Gao**, Otavio L. Tecchio, Robert W. Yeh. 
 
 - [The R.O.A.D. to clinical trial emulation](https://arxiv.org/abs/2412.03528) \\
-    Dimitris Bertsimas, Angelos G. Koulouras, Hiroshi Nagata, **Carol Gao**, Junki Mizusawa, Yukihide Kanemitsu, Georgios Antonios Margonis。
+    Dimitris Bertsimas, Angelos G. Koulouras, Hiroshi Nagata, **Carol Gao**, Junki Mizusawa, Yukihide Kanemitsu, Georgios Antonios Margonis.
 
