@@ -18,7 +18,7 @@ Publications
 Working Papers 
 ------
 - [Instrumental Variables with Time-Varying Exposure: New Estimates of Revascularization Effects on Quality of Life](https://arxiv.org/abs/2501.01623) \\
-    Joshua Angrist, Bruno Ferman, **Carol Gao**, Otavio L. Tecchio, Robert W. Yeh. 
+    Joshua Angrist, Bruno Ferman, **Carol Gao**, Peter Hull, Otavio L. Tecchio, Robert W. Yeh. 
 
 - [The R.O.A.D. to clinical trial emulation](https://arxiv.org/abs/2412.03528) \\
     Dimitris Bertsimas, Angelos G. Koulouras, Hiroshi Nagata, **Carol Gao**, Junki Mizusawa, Yukihide Kanemitsu, Georgios Antonios Margonis.
