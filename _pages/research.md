@@ -13,7 +13,7 @@ Publications
 
 - [Optimal Policing with (and without) Criminal Search](https://link.springer.com/article/10.1007/s10058-024-00356-y) \\
     **Carol Gao**, Jorge Vasquez. \\
-    *Review of Economic Design*, Forthcoming. 
+    *Review of Economic Design*, 29, 213–244 (2025). https://doi.org/10.1007/s10058-024-00356-y
 
 Working Papers 
 ------
