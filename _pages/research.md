@@ -18,7 +18,7 @@ Publications
 Working Papers 
 ------ 
 - [Should We Relax Stability in Matching Markets?](https://arxiv.org/abs/2509.14475) \\
-    Dimitris Bertsimas, **Carol Gao**
+    Dimitris Bertsimas, **Carol Gao**.
     
 - [The R.O.A.D. to Clinical Trial Emulation](https://arxiv.org/abs/2412.03528) \\
     Dimitris Bertsimas, Angelos G. Koulouras, Hiroshi Nagata, **Carol Gao**, Junki Mizusawa, Yukihide Kanemitsu, Georgios Antonios Margonis.
