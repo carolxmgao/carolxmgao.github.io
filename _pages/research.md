@@ -16,10 +16,14 @@ Publications
     *Review of Economic Design*, 29, 213–244 (2025). https://doi.org/10.1007/s10058-024-00356-y
 
 Working Papers 
-------
+------ 
+- [Should We Relax Stability in Matching Markets?](https://arxiv.org/abs/2509.14475) \\
+    Dimitris Bertsimas, **Carol Gao**
+    
+- [The R.O.A.D. to Clinical Trial Emulation](https://arxiv.org/abs/2412.03528) \\
+    Dimitris Bertsimas, Angelos G. Koulouras, Hiroshi Nagata, **Carol Gao**, Junki Mizusawa, Yukihide Kanemitsu, Georgios Antonios Margonis.
+
 - [Instrumental Variables with Time-Varying Exposure: New Estimates of Revascularization Effects on Quality of Life](https://arxiv.org/abs/2501.01623) \\
     Joshua Angrist, Bruno Ferman, **Carol Gao**, Peter Hull, Otavio L. Tecchio, Robert W. Yeh. 
 
-- [The R.O.A.D. to Clinical Trial Emulation](https://arxiv.org/abs/2412.03528) \\
-    Dimitris Bertsimas, Angelos G. Koulouras, Hiroshi Nagata, **Carol Gao**, Junki Mizusawa, Yukihide Kanemitsu, Georgios Antonios Margonis.
 
