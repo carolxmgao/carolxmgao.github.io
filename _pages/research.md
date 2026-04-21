@@ -17,6 +17,9 @@ Publications
 
 Working Papers 
 ------ 
+- [Robustifying and Selecting Cohort-Appropriate Prognostic Models under Distributional Shifts](https://arxiv.org/abs/2604.16537) \\
+    Dimitris Bertsimas, **Carol Gao**, Angelos G. Koulouras, Georgios Antonios Margonis.
+    
 - [Should We Relax Stability in Matching Markets?](https://arxiv.org/abs/2509.14475) \\
     Dimitris Bertsimas, **Carol Gao**.
     
